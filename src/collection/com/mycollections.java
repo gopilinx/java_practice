@@ -14,8 +14,8 @@ public class mycollections {
 		//array class, string of array
 		ArrayList<employee> emp=new ArrayList<employee>();
 		emp.add(new employee("gopi", 34));
-		emp.add(new employee("kumar", 34));
-		emp.add(new employee("vadlamudi", 34));
+		emp.add(new employee("Gopi2", 34));
+		emp.add(new employee("Gopi3", 34));
 		for(employee st:emp)
 			//System.out.println(st.name);
 			//System.out.println(st.age);

@@ -28,9 +28,9 @@ public class myQueue {
 		PriorityQueue<Student> qpStudent = new PriorityQueue<Student>();
 		//Boolean x=qpStudent.add(new Student("Gopi",34));
 		qpStudent.add(new Student("Gopi",34));
-		qpStudent.add(new Student("Chinni",30));
-		qpStudent.add(new Student("Peshu",5));
-		qpStudent.add(new Student("Sai",1));
+		qpStudent.add(new Student("Gopi2",30));
+		qpStudent.add(new Student("Gopi3",5));
+		qpStudent.add(new Student("Gopi4",1));
 		
 		System.out.println(qpStudent.poll().name);
 		

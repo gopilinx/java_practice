@@ -6,8 +6,8 @@ public class QueueLinkedListDemo {
 		QueueLinkedList<String> q=new
 				QueueLinkedList<String>();
 		q.Queue("gopi");
-		q.Queue("kumar");
-		q.Queue("vad");
+		q.Queue("Gopi2");
+		q.Queue("Gopi3");
 		System.out.println(q.Dequeue());
 		System.out.println(q.Dequeue());
 		System.out.println(q.Dequeue());

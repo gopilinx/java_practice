@@ -7,8 +7,8 @@ public class StackLinkedListDemo {
 				new StackLinkedList<String>();
 		//st.pop();
 		st.push("Gopi");
-		st.push("kumar");
-		st.push("Vad");
+		st.push("Gopi2");
+		st.push("Gopi3");
 		//st.push("Vad2");
 		//while(st.pop()!=null)
 		System.out.println(st.pop());

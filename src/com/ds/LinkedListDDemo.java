@@ -5,7 +5,7 @@ public class LinkedListDDemo {
 	public static void main(String[] args) {
 		LinkedListD<String> ls = new LinkedListD<String>();
 		ls.add("Gopi");
-		ls.add("Kumar");
+		ls.add("Gopi2");
 		ls.add("Ram");
 		ls.add("Krishna");
 		System.out.println("before delete");
