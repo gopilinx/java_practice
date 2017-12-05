@@ -2,6 +2,8 @@ package collection.com;
 
 import java.util.Stack;
 
+// Class myStack
+
 public class myStack {
 
 	public static void main(String[] args) {
